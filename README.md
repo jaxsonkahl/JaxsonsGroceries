@@ -4,6 +4,7 @@
 Jaxson's Groceries is a web-based application designed to facilitate online grocery shopping. The application allows customers to browse products, add items to their cart, place orders, and manage their profiles. Administrators can manage products, view sales reports, and restore the database to its original state.
 
 ## Table of Contents
+- [Demonstration](#demonstration)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -12,6 +13,11 @@ Jaxson's Groceries is a web-based application designed to facilitate online groc
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact Information](#contact-information)
+
+## Demonstration
+
+https://github.com/user-attachments/assets/9939fb2e-60ee-458a-aa6c-a781da3f0534
+
 
 ## Installation
 1. **Clone the repository**:
