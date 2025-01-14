@@ -10,7 +10,6 @@ Jaxson's Groceries is a web-based application designed to facilitate online groc
 - [Project Structure](#project-structure)
 - [Key Files and Their Functions](#key-files-and-their-functions)
 - [Docker Setup](#docker-setup)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact Information](#contact-information)
 
@@ -126,14 +125,6 @@ https://github.com/user-attachments/assets/9939fb2e-60ee-458a-aa6c-a781da3f0534
 
 2. **Access the application**:
     Open a web browser and navigate to `http://localhost/shop/index.jsp`.
-
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
