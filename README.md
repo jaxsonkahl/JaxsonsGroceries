@@ -29,7 +29,7 @@ Jaxson's Groceries is a web-based application designed to facilitate online groc
 
    Open a web browser and navigate to `http://localhost/shop/loaddata.jsp` to load grocery data.
 
-   Then navigate to `http://localhost/shop/shop.jsp` to start using the application.
+   Then navigate to `http://localhost/shop/index.jsp` to start using the application.
 
 ## Usage
 - **Customer**:
@@ -118,7 +118,7 @@ WebContent/
     ```
 
 2. **Access the application**:
-    Open a web browser and navigate to `http://localhost/shop/shop.jsp`.
+    Open a web browser and navigate to `http://localhost/shop/index.jsp`.
 
 ## Contributing
 1. Fork the repository.
