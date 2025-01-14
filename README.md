@@ -50,44 +50,45 @@ https://github.com/user-attachments/assets/9939fb2e-60ee-458a-aa6c-a781da3f0534
 
 ## Project Structure
   ```
-  .DS_Store
-docker-compose.yml
-Dockerfile
-WebContent/
-    .DS_Store
-    addcart.jsp
-    admin.jsp
-    auth.jsp
-    checkout.jsp
-    css/
-        bootstrap.min.css
-    customer.jsp
-    ddl/
-        orderdb_sql.ddl
-        SQLServer_orderdb.ddl
-    displayImage.jsp
-    header.jsp
-    HelloWorld.jsp
-    img/
-    index.jsp
-    jdbc.jsp
-    listorder.jsp
-    listprod.jsp
-    loaddata.jsp
-    login.jsp
-    logout.jsp
-    META-INF/
-        ...
-    order.jsp
-    product.jsp
-    removecart.jsp
-    ship.jsp
-    shop.html
-    showcart.jsp
-    updateCustomer.jsp
-    validateLogin.jsp
-    WEB-INF/
-        ...
+    JaxsonsGroceries/
+    │
+    ├── docker-compose.yml
+    ├── Dockerfile
+    ├── WebContent/
+    │   ├── addcart.jsp
+    │   ├── admin.jsp               # Administrator dashboard
+    │   ├── auth.jsp                # Authentication check
+    │   ├── checkout.jsp            # Checkout page
+    │   ├── css/
+    │   │   └── bootstrap.min.css   # Bootstrap CSS
+    │   ├── customer.jsp            # Customer profile page
+    │   ├── ddl/
+    │   │   ├── orderdb_sql.ddl     # MySQL database schema
+    │   │   └── SQLServer_orderdb.ddl # SQL Server database schema
+    │   ├── displayImage.jsp
+    │   ├── header.jsp
+    │   ├── HelloWorld.jsp
+    │   ├── img/
+    │   ├── index.jsp               # Home page
+    │   ├── jdbc.jsp
+    │   ├── listorder.jsp           # List all orders
+    │   ├── listprod.jsp            # Browse products
+    │   ├── loaddata.jsp
+    │   ├── login.jsp               # Login page
+    │   ├── logout.jsp              # Logout page
+    │   ├── META-INF/
+    │   ├── order.jsp               # Order processing page
+    │   ├── product.jsp             # Product details page
+    │   ├── removecart.jsp
+    │   ├── ship.jsp
+    │   ├── shop.html
+    │   ├── showcart.jsp            # Shopping cart page
+    │   ├── updateCustomer.jsp      # Update customer information
+    │   ├── validateLogin.jsp       # Validate user login
+    │   └── WEB-INF/
+    ├── README.md                    # Project documentation
+    └── .DS_Store
+
   ```
 
 ## Key Files and Their Functions
